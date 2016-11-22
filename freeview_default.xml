@@ -14,5 +14,5 @@
   <project name="SKplatformBroadcom.git" path="platformBroadcom" />
   <project name="SKDTVBridge.git" path="DTVBridge" />
   <project name="SKUniversalInterface.git" path="UniversalInterface" revision="refs/heads/master"/>
-  <project name="SKsagem_freeview.git" path="sagem_freeview" />
+  <project name="SKsagem_freeview.git" path="sagem_freeview" revision="refs/heads/master"/>
 </manifest>
