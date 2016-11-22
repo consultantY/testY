@@ -5,7 +5,7 @@
           name="origin" />
 
   <default remote="origin"
-           revision="origin/sagem_freeview"
+           revision="refs/heads/sagem_freeview"
            sync-j="4"/>
 
   <project name="SKDVBCore.git" path="DTVKit/DVBCore" />
