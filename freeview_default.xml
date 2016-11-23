@@ -8,7 +8,7 @@
            revision="refs/heads/sagem_freeview"
            sync-j="4"/>
 
-  <project name="SKDVBCore.git" path="DTVKit/DVBCore" revision="refs/heads/sagem_freeview" />
+  <project name="SKDVBCore.git" path="DTVKit/DVBCore" />
   <project name="SKDSMCC.git" path="DTVKit/DSMCC" revision="refs/heads/sagem_freeview"/>
   <project name="SKMHEG5.git" path="DTVKit/MHEG5" revision="refs/heads/sagem_freeview"/>
   <project name="SKplatformBroadcom.git" path="platformBroadcom" revision="refs/heads/sagem_freeview"/>
